@@ -1,0 +1,76 @@
+body{
+    background-image: url("https://www.storminformatica.net.br/wp-content/uploads/2019/09/papeis-de-parede-para-celulares-18.jpg");
+    
+    color:white;
+}
+    
+p .card{
+    color: white;
+}
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+h2{
+    color:  rgb(208, 208, 211);
+}
+h6{
+    color: rgb(245, 239, 239);
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: rgb(245, 239, 239)!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(51, 29, 247);
+    border: 2px;
+    
+    
+}
+.card{
+    background-color: rgb(236, 15, 8);
+}
+.cor{
+    background:#b2b2b2;
+}
+
+.navbar-light .navbar-brand{
+color:rgb(0, 17, 255);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 0.6cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(20, 16, 236);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:#b2b2b2;
+    border-color: red;
+
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(31, 29, 29);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color: #b2b2b2;
+}
+.footer a{
+    color:rgb(0, 17, 255);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
